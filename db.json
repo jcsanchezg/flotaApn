@@ -1,15 +1,34 @@
 
 {
   "apn207": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "aircraftNumber": 1 },
+    { "aircraftModel": 2, "title": "Post 2" },
+    { "aircraftUsed": 3, "title": "Post 3" },
+     { "timeInspections": 4, "title": "Post 3" },
+     { "aircraftTotalAccumulated": 4, "title": "Post 3" },
+     { "aircraftTotalOverhaul": 4, "title": "Post 3" }
   ],
   "apn461": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "partEngine": 1, "body": "some comment", "postId": 1 },
+    { "serialEngine": 2, "body": "some comment", "postId": 1 },
+    { "aircraftRegisterNumber": 2, "body": "some comment", "postId": 1 },
+    { "enginePosition": 2, "body": "some comment", "postId": 1 },
+    { "timeSinceNew_apn460": 2, "body": "some comment", "postId": 1 },
+    { "flightCycles": 2, "body": "some comment", "postId": 1 },
+    { "timeSinceInstalation": 2, "body": "some comment", "postId": 1 },
+    { "cyclesSinceInstalation": 2, "body": "some comment", "postId": 1 },
+    { "flightHoursPeriod_apn460": 2, "body": "some comment", "postId": 1 },
+    { "flightCyclesPeriod_apn460": 2, "body": "some comment", "postId": 1 },
+    { "remarks": 2, "body": "some comment", "postId": 1 }
   ],
   "apn10028": {
-    "name": "typicode"
+    "partnumber": "typicode",
+    "serialnumber": "typicode",
+    "aircraftNumber_apn10027": "typicode",
+    "auxiliaryPowerUnit": "typicode",
+    "timeSinceNew_apn10027": "typicode",
+    "cyclesSinceNew_apn10027": "typicode",
+    "flightHoursPeriod_apn10028": "typicode",
+    "flightCyclesPeriod_apn10028": "typicode"
   }
 }
