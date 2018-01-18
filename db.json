@@ -61,7 +61,7 @@
             "thcDue":9
             },
       "mainEngines":{
-          "manufacturer":
+          "manufacturer":1,
           "partNumber":{
               "ENGLH":1, 
               "ENGRH":2
