@@ -40,7 +40,7 @@
           "dataOfManufacture":5,
           "currentRegistration":6,
           "currentOperator":7,
-          "aircraftOperatingLimitation
+          "aircraftOperatingLimitation":8
           } ,
       "airframeStatus": {
           "totalAirframeHours":1,
