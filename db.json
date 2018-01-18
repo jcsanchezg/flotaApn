@@ -97,7 +97,7 @@
           "periodCycles":{
               "ENGLH":1, 
               "ENGRH":2
-              },
+              }
            },
       "apuDelivered":{
           "manufacturer":1,
@@ -162,7 +162,7 @@
             "apu":1,
             "lh":2,
             "rh":3
-          },
+          }
       }
   }
 }
