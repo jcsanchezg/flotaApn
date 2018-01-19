@@ -17,8 +17,8 @@
             "serialEngine": "12345",
             "aircraftRegisterNumber": "744AV",
             "enginePosition": "ENGRH",
-            "timeSinceNewApn460": "9876",
-            "cyclesSinceNewApn460":11,
+            "timeSinceNew": "9876",
+            "cyclesSinceNew":11,
             "timeSinceInstalation": "3416",
             "cyclesSinceInstalation": "4115",
             "flightHoursPeriod": "105",
@@ -28,12 +28,12 @@
   "apn10027": {
               "partnumber":"CFM56-5B3\/3" ,
               "serialnumber":"12345" ,
-              "aircraftNumber_apn10027": "744AV",
+              "aircraftNumber": "744AV",
               "auxiliaryPowerUnit": "ENGRH",
-              "timeSinceNew_apn10027":"9876",
-              "cyclesSinceNew_apn10027":"4115",
-              "flightHoursPeriod_apn10028": "105",
-              "flightCyclesPeriod_apn10028": "173"
+              "timeSinceNew":"9876",
+              "cyclesSinceNew":"4115",
+              "flightHoursPeriod": "105",
+              "flightCyclesPeriod": "173"
      },
    "apn027": {
       "aircraftSpecification":{
