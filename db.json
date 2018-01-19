@@ -3,170 +3,169 @@
   "apn206": { 
     "aircraftNumber": "123AV",
      "aircraftModel": "32S",
-     "TAH": {
+     "timeAircraftHour": {
                 "end": "12587:46",
                 "period": "212:55:00"
             },
-     "TAC": {
-                "start": "12867",
+     "totalAccumulatedCycles": {"AIRBUS SAS"
                 "end": "13045",
                 "period": "178"
             } 
   },
   "apn460":{
-     "partEngine": 1 ,
-     "serialEngine": 2 ,
-     "aircraftRegisterNumber": 3 ,
-     "enginePosition": 4 ,
-     "timeSinceNew_apn460": 5 ,
-     "flightCycles": 6 ,
-     "timeSinceInstalation": 7 ,
-     "cyclesSinceInstalation": 8 ,
-     "flightHoursPeriod_apn460": 9 ,
-     "flightCyclesPeriod_apn460": 10 ,
-     "remarks": 11 
+            "partEngine": "CFM56-5B3\/3",
+            "serialEngine": "12345",
+            "aircraftRegisterNumber": "744AV",
+            "enginePosition": "ENGRH",
+            "timeSinceNewApn460": "9876",
+            "cyclesSinceNewApn460":11
+            "timeSinceInstalation": "3416",
+            "cyclesSinceInstalation": "4115",
+            "flightHoursPeriod": "105",
+            "flightCyclesPeriod": "173",
+            "Remarks": ""
     },
-  "apn10028": {
-    "partnumber":1 ,
-    "serialnumber":2 ,
-    "aircraftNumber_apn10027": 3,
-    "auxiliaryPowerUnit": 4,
-    "timeSinceNew_apn10027":5 ,
-    "cyclesSinceNew_apn10027":6 ,
-    "flightHoursPeriod_apn10028": 7,
-    "flightCyclesPeriod_apn10028": 8
-  },
+  "apn10027": {
+              "partnumber":"CFM56-5B3\/3" ,
+              "serialnumber":"12345" ,
+              "aircraftNumber_apn10027": "744AV",
+              "auxiliaryPowerUnit": "ENGRH",
+              "timeSinceNew_apn10027":"9876",
+              "cyclesSinceNew_apn10027":"4115",
+              "flightHoursPeriod_apn10028": "105",
+              "flightCyclesPeriod_apn10028": "173"
+     },
    "apn027": {
       "aircraftSpecification":{
-          "manufacter":1,
-          "type":2,
-          "model":3,
-          "serialNumber":4,
-          "dataOfManufacture":5,
-          "currentRegistration":6,
-          "currentOperator":7,
-          "aircraftOperatingLimitation":8
+          "manufacter":"AIRBUS SAS",
+          "type":"AIRBUS A318\/319\/320\/321",
+          "model":"A320",
+          "serialNumber":"5195",
+          "dataOfManufacture":"22.Jun.2012",
+          "currentRegistration":"N195AV",
+          "currentOperator":"AEROVIAS DEL CONTINENTE AMERICANO S",
+          "aircraftOperatingLimitation":null
           } ,
       "airframeStatus": {
-          "totalAirframeHours":1,
-          "totalAirframeCycles":2,
-          "periodAirframeHours":3,
-          "periodAirframeCycles":4
+          "totalAirframeHours":"10'663",
+          "totalAirframeCycles":"11'135",
+          "periodAirframeHours":"231",
+          "periodAirframeCycles":"200"
           },
       "lastMajorCheckPerformed":{
-            "checkDate":6,
-            "perfDate":7,
-            "totalHours":8,
-            "totalCycles":9
+            "checkDate":"A-P",
+            "perfDate":"04.Aug.2016",
+            "totalHours":"9696:10",
+            "totalCycles":"10'168"
             },
       "nextMajorCheckPerformed":{
-            "checkType":6,
-            "dueDate":7,
-            "thaDue":8,
-            "thcDue":9
+            "checkType":"A-P",
+            "dueDate":"19'050",
+            "thaDue":"40973:03",
+            "thcDue":"19'050"
             },
       "mainEngines":{
-          "manufacturer":1,
+          "manufacturer":"CFM INTL INC",
           "partNumber":{
-              "ENGLH":1, 
-              "ENGRH":2
+              "ENGLH":"CFM56-7B22-3", 
+              "ENGRH":"CFM56-7B22"
               },
           "serialNumber":{
-              "ENGLH":1, 
-              "ENGRH":2
+              "ENGLH":null, 
+              "ENGRH":null
               },
           "timeSinceNew":{
-              "ENGLH":1, 
-              "ENGRH":2
+              "ENGLH":"54677\/H", 
+              "ENGRH":"68106\/H"
               },
           "cyclesSinceNew":{
-              "ENGLH":1, 
-              "ENGRH":2
+              "ENGLH":"7356\/C", 
+              "ENGRH":"153000\/C"
               },
           "timeSinceOh":{
-              "ENGLH":1, 
-              "ENGRH":2
+              "ENGLH":"54677\/H", 
+              "ENGRH":"68106\/H"
               },
           "cyclesSinceOh":{
-              "ENGLH":1, 
-              "ENGRH":2
+              "ENGLH":"7356\/C", 
+              "ENGRH":"153000\/C"
               },
           "lastOhDate":{
-              "ENGLH":1, 
-              "ENGRH":2
+              "ENGLH":null, 
+              "ENGRH":null
               },
           "periodHours":{
-              "ENGLH":1, 
-              "ENGRH":2
+              "ENGLH":"302\/H", 
+              "ENGRH":"302\/H"
               },
           "periodCycles":{
-              "ENGLH":1, 
-              "ENGRH":2
+              "ENGLH":"138\/C", 
+              "ENGRH":"138\/C"
               }
            },
       "apuDelivered":{
-          "manufacturer":1,
-          "partNumber":2,
-          "serialNumber":3,
-          "timeSinceNew":4,
-          "cyclesSinceNew":5,
-          "timeSinceOh":6,
-          "cyclesSinceOh":7,
-          "lastOhDate":8,
-          "periodFlightHours":9,
-          "periodFlightCylce":10
+          "manufacturer":"HONEYWELL INTERNATIONAL INC",
+          "partNumber":null,
+          "serialNumber":null,
+          "timeSinceNew":"52325\/H",
+          "cyclesSinceNew":"20410\/C",
+          "timeSinceOh":"52325\/H",
+          "cyclesSinceOh":"20410\/C",
+          "lastOhDate":null,
+          "periodFlightHours":"225\/H",
+          "periodFlightCylce":"125\/C"
            },
     "landingGears":{
-        "manufacture":1,
+        "manufacturer":null,
         "partNumber":{
-            "apu":1,
-            "lh":2,
-            "rh":3
+            "apu":null,
+            "lh":null,
+            "rh":null
           },
         "serialNumber":{
-            "apu":1,
-            "lh":2,
-            "rh":3
+            "apu":null,
+            "lh":null,
+            "rh":null
           },
         "timeSinceNew":{
-            "apu":1,
-            "lh":2,
-            "rh":3
+            "apu":"74116\/H",
+            "lh":"74116\/H",
+            "rh":"74116\/H"
           },
         "cyclesSinceNew":{
-            "apu":1,
-            "lh":2,
-            "rh":3
+            "apu":"20034\/C",
+            "lh":"20034\/C",
+            "rh":"20034\/C"
           },
         "timeSinceOh":{
-            "apu":1,
-            "lh":2,
-            "rh":3
+            "apu":null,
+            "lh":null,
+            "rh":null
           },
         "cyclesSinceOh":{
-              "apu":1,
-              "lh":2,
-              "rh":3
+              "apu":null,
+              "lh":null,
+              "rh":null
             },
         "lastOhDate":{
-            "apu":1,
-            "lh":2,
-            "rh":3
+            "apu":"01.Apr.2015",
+            "lh":"01.Apr.2015",
+            "rh":"01.Apr.2015"
           },
         "periodHours":{
-            "apu":1,
-            "lh":2,
-            "rh":3
+            "apu":"302\/H",
+            "lh":"302\/H",
+            "rh":"302\/H"
           },
         "periodCycles":{
-            "apu":1,
-            "lh":2,
-            "rh":3
+            "apu":"138\/C",
+            "lh":"138\/C",
+            "rh":"138\/C"
           },
         "nextScheduleOverhaul":{
-            "apu":1,
-            "lh":2,
-            "rh":3
+            "apu":"8y, 192d",
+            "lh":"8y, 192d",
+            "rh":"8y, 192d"
           }
       }
   }
