@@ -1,12 +1,17 @@
 
 {
   "apn206": { 
-    "aircraftNumber": 123AV,
-     "aircraftModel": 2 ,
-     "aircraftUsed": 3 ,
-      "timeInspections": 4 ,
-      "aircraftTotalAccumulated": 5 ,
-      "aircraftTotalOverhaul": 6 
+    "aircraftNumber": "123AV",
+     "aircraftModel": "32S",
+     "TAH": {
+                "end": "12587:46",
+                "period": "212:55:00"
+            },
+     "TAC": {
+                "start": "12867",
+                "end": "13045",
+                "period": "178"
+            } 
   },
   "apn461":{
      "partEngine": 1 ,
