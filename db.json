@@ -18,7 +18,7 @@
             "aircraftRegisterNumber": "744AV",
             "enginePosition": "ENGRH",
             "timeSinceNewApn460": "9876",
-            "cyclesSinceNewApn460":11
+            "cyclesSinceNewApn460":11,
             "timeSinceInstalation": "3416",
             "cyclesSinceInstalation": "4115",
             "flightHoursPeriod": "105",
