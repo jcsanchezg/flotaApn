@@ -1,18 +1,18 @@
 
 {
-  "apn206": { 
-    "aircraftNumber": "123AV",
-     "aircraftModel": "32S",
-     "timeAircraftHour": {
+  "apn206": [{ 
+      "aircraftNumber": "123AV",
+      "aircraftModel": "32S",
+      "timeAircraftHour": {
                 "end": "12587:46",
                 "period": "212:55:00"
             },
-     "totalAccumulatedCycles": {
+      "totalAccumulatedCycles": {
                 "end": "13045",
                 "period": "178"
             } 
-  },
-  "apn460":{
+  }],
+  "apn460":[{
             "partEngine": "CFM56-5B3\/3",
             "serialEngine": "12345",
             "aircraftRegisterNumber": "744AV",
@@ -24,8 +24,8 @@
             "flightHoursPeriod": "105",
             "flightCyclesPeriod": "173",
             "Remarks": ""
-    },
-  "apn10027": {
+    }],
+  "apn10027": [{
               "partnumber":"CFM56-5B3\/3" ,
               "serialnumber":"12345" ,
               "aircraftNumber": "744AV",
@@ -34,7 +34,7 @@
               "cyclesSinceNew":"4115",
               "flightHoursPeriod": "105",
               "flightCyclesPeriod": "173"
-     },
+     }],
    "apn027": {
       "aircraftSpecification":{
           "manufacter":"AIRBUS SAS",
