@@ -44,113 +44,101 @@
           "dataOfManufacture":"22.Jun.2012",
           "currentRegistration":"N195AV",
           "currentOperator":"AEROVIAS DEL CONTINENTE AMERICANO S",
-          "aircraftOperatingLimitation":null
-          } ,
-      "airframeStatus": {
-          "totalAirframeHours":"10'663",
-          "totalAirframeCycles":"11'135",
-          "periodAirframeHours":"231",
-          "periodAirframeCycles":"200"
-          },
-      "lastMajorCheckPerformed":{
-            "checkDate":"A-P",
-            "perfDate":"04.Aug.2016",
-            "totalHours":"9696:10",
-            "totalCycles":"10'168"
+          "aircraftOperatingLimitation":null,
+          "airframeStatus": {
+              "totalAirframeHours":"10'663",
+              "totalAirframeCycles":"11'135",
+              "periodAirframeHours":"231",
+              "periodAirframeCycles":"200"
             },
-      "nextMajorCheckPerformed":{
-            "checkType":"A-P",
-            "dueDate":"19'050",
-            "thaDue":"40973:03",
-            "thcDue":"19'050"
+         "lastMajorCheckPerformed":{
+               "checkDate":"A-P",
+               "perfDate":"04.Aug.2016",
+               "totalHours":"9696:10",
+               "totalCycles":"10'168"
             },
-      "mainEnginesDeliveredWithA/C":{
-          "manufacturer":"CFM INTL INC",
-                "LH":{ "partNumber":"CFM56-7B22-3", 
-                      "serialNumber": null,
-                       "timeSinceNew":"54677\/H",
-                      "cyclesSinceNew":"7356\/C",
-                      "timeSinceOh":"54677\/H",
-                      "cyclesSinceOh":"7356\/C",
-                      "lastOhDate":null,
-                      "periodHours":"302\/H",
-                      "periodCycles":"138\/C"
-                     },
-                "RH":{ "partNumber":"CFM56-7B22", 
-                      "serialNumber":null,
-                      "timeSinceNew":"68106\/H",
-                      "cyclesSinceNew":"153000\/C",
-                      "timeSinceOh":"68106\/H",
-                      "cyclesSinceOh":"153000\/C",
-                      "lastOhDate":null,
-                      "periodHours":"302\/H",
-                      "periodCycles":"138\/C"
-                    },       
-      "apuDelivered":{
-          "manufacturer":"HONEYWELL INTERNATIONAL INC",
-          "partNumber":null,
-          "serialNumber":null,
-          "timeSinceNew":"52325\/H",
-          "cyclesSinceNew":"20410\/C",
-          "timeSinceOh":"52325\/H",
-          "cyclesSinceOh":"20410\/C",
-          "lastOhDate":null,
-          "periodFlightHours":"225\/H",
-          "periodFlightCylce":"125\/C"
-           },
-    "landingGears":{
-        "manufacturer":null,
-        "partNumber":{
-            "apu":null,
-            "lh":null,
-            "rh":null
-          },
-        "serialNumber":{
-            "apu":null,
-            "lh":null,
-            "rh":null
-          },
-        "timeSinceNew":{
-            "apu":"74116\/H",
-            "lh":"74116\/H",
-            "rh":"74116\/H"
-          },
-        "cyclesSinceNew":{
-            "apu":"20034\/C",
-            "lh":"20034\/C",
-            "rh":"20034\/C"
-          },
-        "timeSinceOh":{
-            "apu":null,
-            "lh":null,
-            "rh":null
-          },
-        "cyclesSinceOh":{
-              "apu":null,
-              "lh":null,
-              "rh":null
+          "nextMajorCheckPerformed":{
+               "checkType":"A-P",
+               "dueDate":"19'050",
+               "thaDue":"40973:03",
+               "thcDue":"19'050"
             },
-        "lastOhDate":{
-            "apu":"01.Apr.2015",
-            "lh":"01.Apr.2015",
-            "rh":"01.Apr.2015"
-          },
-        "periodHours":{
-            "apu":"302\/H",
-            "lh":"302\/H",
-            "rh":"302\/H"
-          },
-        "periodCycles":{
-            "apu":"138\/C",
-            "lh":"138\/C",
-            "rh":"138\/C"
-          },
-        "nextScheduleOverhaul":{
-            "apu":"8y, 192d",
-            "lh":"8y, 192d",
-            "rh":"8y, 192d"
+          "mainEnginesDeliveredWithA/C":{
+              "manufacturer":"CFM INTL INC",
+                    "LH":{ "partNumber":"CFM56-7B22-3", 
+                          "serialNumber": null,
+                          "timeSinceNew":"54677\/H",
+                          "cyclesSinceNew":"7356\/C",
+                          "timeSinceOh":"54677\/H",
+                          "cyclesSinceOh":"7356\/C",
+                          "lastOhDate":null,
+                          "periodHours":"302\/H",
+                          "periodCycles":"138\/C"
+                        },
+                    "RH":{ "partNumber":"CFM56-7B22", 
+                          "serialNumber":null,
+                          "timeSinceNew":"68106\/H",
+                          "cyclesSinceNew":"153000\/C",
+                          "timeSinceOh":"68106\/H",
+                          "cyclesSinceOh":"153000\/C",
+                          "lastOhDate":null,
+                          "periodHours":"302\/H",
+                          "periodCycles":"138\/C"
+                        },       
+            "apuDelivered":{
+             "manufacturer":"HONEYWELL INTERNATIONAL INC",
+             "partNumber":null,
+             "serialNumber":null,
+             "timeSinceNew":"52325\/H",
+             "cyclesSinceNew":"20410\/C",
+             "timeSinceOh":"52325\/H",
+             "cyclesSinceOh":"20410\/C",
+             "lastOhDate":null,
+             "periodFlightHours":"225\/H",
+             "periodFlightCylce":"125\/C"
+              },
+           "Landing Gears": {
+                "Manufacturer": "",
+                "Position": {
+                    "APU": {
+                        "Partnumber": "",
+                        "Serialnumber": "",
+                        "Time since new": "74116\/H",
+                        "Cycles since new": "20034\/C",
+                        "timeSinceOh": "01.Apr.2015",
+                        "cyclesSinceOh":null,
+                        "lastOhDate":null,
+                        "Period Hours": "302\/H",
+                        "Period Cycles": "138\/C",
+                        "Next Scheduled Overhauld": "8y, 192d"
+                    },
+                    "LH": {
+                        "Partnumber": "",
+                        "Serialnumber": "",
+                        "Time since new": "74116\/H",
+                        "Cycles since new": "20034\/C",
+                        "timeSinceOh": "01.Apr.2015",
+                        "cyclesSinceOh":null,
+                        "lastOhDate":null,
+                        "Period Hours": "302\/H",
+                        "Period Cycles": "138\/C",
+                        "Next Scheduled Overhauld": "8y, 192d"
+                    },
+                    "RH": {
+                        "Partnumber": "",
+                        "Serialnumber": "",
+                        "Time since new": "74116\/H",
+                        "Cycles since new": "20034\/C",
+                        "timeSinceOh": "01.Apr.2015",
+                        "cyclesSinceOh":null,
+                        "lastOhDate":null,
+                        "Period Hours": "302\/H",
+                        "Period Cycles": "138\/C",
+                        "Next Scheduled Overhauld": "8y, 192d"
+                   }
           }
+        } 
       }
+    }
   }
-}
 }
