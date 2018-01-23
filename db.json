@@ -36,6 +36,19 @@
 			"flightHoursPeriod": "105",
 			"flightCyclesPeriod": "173",
 			"Remarks": ""
+		},
+		{
+			"partEngine": "CFM56-5B3\/3",
+			"serialEngine": "12345",
+			"aircraftRegisterNumber": "744AV",
+			"enginePosition": "ENGRH",
+			"timeSinceNew": "9876",
+			"cyclesSinceNew": 11,
+			"timeSinceInstalation": "3416",
+			"cyclesSinceInstalation": "4115",
+			"flightHoursPeriod": "105",
+			"flightCyclesPeriod": "173",
+			"Remarks": ""
 		}
 	],
 	"engineUtilizationPowerUnits": [{
