@@ -1,5 +1,5 @@
 {
-	"apn206": [{
+	"aircraftUtilization": [{
 			"A/C": "123AV",
 			"A/C-Type": "32S",
 			"TAH": {
@@ -24,7 +24,7 @@
 				}
 		}
 	],
-	"apn460": [{
+	"engineUtilization": [{
 			"partEngine": "CFM56-5B3\/3",
 			"serialEngine": "12345",
 			"aircraftRegisterNumber": "744AV",
@@ -38,7 +38,7 @@
 			"Remarks": ""
 		}
 	],
-	"apn10027": [{
+	"engineUtilizationPowerUnits": [{
 			"partnumber": "CFM56-5B3\/3",
 			"serialnumber": "12345",
 			"aircraftNumber": "744AV",
@@ -49,7 +49,7 @@
 			"flightCyclesPeriod": "173"
 		}
 	],
-	"apn027": [{
+	"aircraftsummaryreport": [{
 		"aircraftSpecification": {
 			"manufacter": "AIRBUS SAS",
 			"type": "AIRBUS A318\/319\/320\/321",
