@@ -1,67 +1,4 @@
 {
-	"aircraftUtilization": [{
-			"A/C": "123AV",
-			"A/C-Type": "32S",
-			"TAH": {
-				"end": "12587:46",
-				"period": "212:55:00"
-				},
-			"TAC": {
-				"end": "13045",
-				"period": "178"
-				}
-		},
-		{
-			"A/C": "123AV",
-			"A/C-Type": "32S",
-			"TAH": {
-				"end": "12587:46",
-				"period": "212:55:00"
-				},
-			"TAC": {
-				"end": "13045",
-				"period": "178"
-				}
-		}
-	],
-	"engineUtilization": [{
-			"partEngine": "CFM56-5B3\/3",
-			"serialEngine": "12345",
-			"aircraftRegisterNumber": "744AV",
-			"enginePosition": "ENGRH",
-			"timeSinceNew": "9876",
-			"cyclesSinceNew": 11,
-			"timeSinceInstalation": "3416",
-			"cyclesSinceInstalation": "4115",
-			"flightHoursPeriod": "105",
-			"flightCyclesPeriod": "173",
-			"Remarks": ""
-		},
-		{
-			"partEngine": "CFM56-5B3\/3",
-			"serialEngine": "12345",
-			"aircraftRegisterNumber": "744AV",
-			"enginePosition": "ENGRH",
-			"timeSinceNew": "9876",
-			"cyclesSinceNew": 11,
-			"timeSinceInstalation": "3416",
-			"cyclesSinceInstalation": "4115",
-			"flightHoursPeriod": "105",
-			"flightCyclesPeriod": "173",
-			"Remarks": ""
-		}
-	],
-	"engineUtilizationPowerUnits": [{
-			"partnumber": "CFM56-5B3\/3",
-			"serialnumber": "12345",
-			"aircraftNumber": "744AV",
-			"auxiliaryPowerUnit": "ENGRH",
-			"timeSinceNew": "9876",
-			"cyclesSinceNew": "4115",
-			"flightHoursPeriod": "105",
-			"flightCyclesPeriod": "173"
-		}
-	],
 	"aircraftsummaryreport": [{
 		"aircraftSpecification": {
 			"manufacter": "AIRBUS SAS",
@@ -91,9 +28,9 @@
 				"thcDue": "19'050"
 			},
 			"mainEnginesDeliveredWithA/C": {
-				"manufacturer": "CFM INTL INC",
+				
 				"LH": {
-					"partNumber": "CFM56-7B22-3",
+					
 					"serialNumber": null,
 					"timeSinceNew": "54677\/H",
 					"cyclesSinceNew": "7356\/C",
@@ -101,10 +38,11 @@
 					"cyclesSinceOh": "7356\/C",
 					"lastOhDate": null,
 					"periodHours": "302\/H",
-					"periodCycles": "138\/C"
+					"periodCycles": "138\/C",
+					"remarks":""
 				},
 				"RH": {
-					"partNumber": "CFM56-7B22",
+					
 					"serialNumber": null,
 					"timeSinceNew": "68106\/H",
 					"cyclesSinceNew": "153000\/C",
@@ -112,7 +50,8 @@
 					"cyclesSinceOh": "153000\/C",
 					"lastOhDate": null,
 					"periodHours": "302\/H",
-					"periodCycles": "138\/C"
+					"periodCycles": "138\/C",
+					"remarks":""
 				},
 				"apuDelivered": {
 					"manufacturer": "HONEYWELL INTERNATIONAL INC",
